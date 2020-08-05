@@ -2,6 +2,7 @@
 title: "BOOK 1 - Clean Code"
 date: 2020-08-05 15:20:00 +0900
 layout: single
+classes: wide
 categories: book development
 tags: clean-code development code
 toc: true
