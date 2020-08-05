@@ -5,8 +5,6 @@ layout: single
 classes: wide
 categories: book development
 tags: clean-code development code
-toc: true
-toc_sticky: true
 ---
 
 # Clean Code
